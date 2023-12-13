@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marcos Simoneli Souza
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Marcos Simoneli Souza
 =============================================================================================================================================
 
 Software Engineering
@@ -7,9 +7,8 @@ Software Engineering
 It is just a start point
 
 * 🌍  I'm based in São Paulo - Brazil
-* 🚀  I'm currently working on [Itau Unibanco](http://www.itau.com.br/)
-* 🧠  I'm learning test
-* 🤝  I'm open to collaborating on teste
+* 🚀  I'm currently working at [Itau Unibanco](http://www.itau.com.br/)
+* 🧠  I'm learning everything about dotnet
 
 ### Skills
 
